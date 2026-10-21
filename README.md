@@ -1,4 +1,4 @@
-# multimodal-pupii-preprocessing
+# multimodal-pupil-preprocessing
 This project provides a guideline for processing pupil diameter data and integrating it with emotion expression data from multimodal datasets from iMotions10 (version 10.1.38911.4). This project uses python programming lauguage.
 
 Project Structure
