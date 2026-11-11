@@ -1,0 +1,17 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local research data and generated output
+*.csv
+*.tsv
+data/
+raw_data/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
